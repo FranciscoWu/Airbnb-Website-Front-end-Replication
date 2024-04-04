@@ -18,11 +18,3 @@ A project written according to the video tutorials, imitating the Airbnb website
 ```shell
 npm run start
 ```
-
-
-
-
-
-### Reference
-
-https://github.com/coderwhy/hy_airbnb
