@@ -1,6 +1,6 @@
 # Project imitation of Airbnb website
 
-A project written according to the video tutorials of coderwhy, imitating the Airbnb website
+A project written according to the video tutorials, imitating the Airbnb website
 
 
 
